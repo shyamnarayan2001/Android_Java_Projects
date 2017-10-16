@@ -4,5 +4,5 @@ This repository holds all the projects related to Android App development in Jav
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1_Button_Toast  | Content Cell  |
+| 2_UI_Design  | Content Cell  |
