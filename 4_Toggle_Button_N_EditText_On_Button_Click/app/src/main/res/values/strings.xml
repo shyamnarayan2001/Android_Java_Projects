@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditText On Button Click and Toggle Button</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="enter_anything_here">Enter anything here..</string>
+</resources>
